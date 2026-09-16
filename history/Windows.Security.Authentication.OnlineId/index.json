@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Security.Authentication.OnlineId.dll",
+  "latest": "1025151482-38591E741D6F85C1EB6A06203C5B3338-1",
+  "builds": [
+    {
+      "key": "1025151482-38591E741D6F85C1EB6A06203C5B3338-1",
+      "timestamp": "1025151482",
+      "pdb_guid": "38591E741D6F85C1EB6A06203C5B3338",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1025151482-38591E741D6F85C1EB6A06203C5B3338-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
